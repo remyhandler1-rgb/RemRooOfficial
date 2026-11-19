@@ -1,0 +1,25 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+#remroo {
+  font-size: 45px;
+  color: royalblue;
+  transform: scale(1);
+  transition-duration: 2s;
+}
+#remroo:hover {
+  transform: scale(1.5);
+  transition-duration: 2s;
+}
+small {
+  font-style: italic;
+  color: grey;
+}
+.song-name {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(30, 30, 30);
+}
+p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
